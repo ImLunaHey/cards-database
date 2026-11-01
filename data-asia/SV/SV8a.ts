@@ -5,6 +5,7 @@ const set: Set = {
 	id: 'SV8a',
 	name: {
 		ja: 'テラスタルフェスex',
+		ko: '테라스탈 페스타 ex',
 		id: 'Festival Terastal ex',
 		th: 'เทศกาลเทรัสตัลex',
 		"zh-tw": '太晶慶典ex',
@@ -18,6 +19,7 @@ const set: Set = {
 	},
 	releaseDate: {
 		ja: '2024-12-06',
+		ko: '2025-01-22',
 		id: '2025-01-31',
 		"zh-cn": '2024-12-20',
 		"zh-tw": '2024-12-20',

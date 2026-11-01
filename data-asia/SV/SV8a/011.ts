@@ -6,6 +6,7 @@ const card: Card = {
 
 	name: {
 		ja: "アノクサ",
+		ko: "그푸리",
 		id: "Bramblin",
 		th: "อาโนะคุสะ",
 		'zh-tw': "納噬草",
@@ -21,6 +22,7 @@ const card: Card = {
 
 	description: {
 		ja: "風に吹かれて 荒野を 転がり 行き先は 自分でも わからない。 体が 濡れるのが 大嫌い。",
+		ko: "바람에 날려 황야를 구르며 어디로 가는지는 자신도 모른다. 몸이 젖는 것을 매우 싫어한다.",
 		id: "Bramblin bergulir ditiup angin di padang gurun tanpa mengetahui tujuannya. Pokémon ini sangat benci jika tubuhnya menjadi basah.",
 		th: "ถูกลมพัดกลิ้งไปตามทุ่งหญ้ารกร้าง แม้แต่ตัวเองก็ไม่รู้ว่ากำลังมุ่งหน้าไปที่ไหน เกลียดการที่ร่างกายเปียกชุ่มเป็นอย่างมาก",
 		'zh-tw': "在風的吹拂下滾動於荒野間， 就連自己也不知道會滾到哪裡去。 最討厭身體被弄得濕答答的。",
@@ -34,6 +36,7 @@ const card: Card = {
 
 		name: {
 			ja: "トゲでさす",
+			ko: "가시로찌르기",
 			id: "Duri Penusuk",
 			th: "แทงด้วยหนาม",
 			'zh-tw': "針刺",

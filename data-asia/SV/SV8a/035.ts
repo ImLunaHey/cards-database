@@ -6,6 +6,7 @@ const card: Card = {
 
 	name: {
 		ja: "ヒンバス",
+		ko: "빈티나",
 		id: "Feebas",
 		th: "ฮินบาส",
 		'zh-tw': "醜醜魚",
@@ -21,6 +22,7 @@ const card: Card = {
 
 	description: {
 		ja: "一番 みすぼらしい ポケモン。 水草の 多い 川底で 大勢 集まって 暮らしている。",
+		ko: "제일 볼품없는 포켓몬이다. 수초가 많은 강바닥에 한데 모여 살고 있다.",
 		id: "Pokémon yang paling lusuh. Feebas berkumpul dalam jumlah besar dan tinggal di dasar sungai yang banyak tanaman airnya.",
 		th: "โปเกมอนที่ดูโทรมที่สุด อาศัยอยู่กันเป็นฝูงที่ก้นแม่น้ำที่มีพืชน้ำมากมาย",
 		'zh-tw': "最寒酸的寶可夢。 在有許多水草的河底 群聚而居。",
@@ -34,6 +36,7 @@ const card: Card = {
 
 		name: {
 			ja: "じたばた",
+			ko: "바둥바둥",
 			id: "Berontak",
 			th: "กระเสือกกระสน",
 			'zh-tw': "抓狂",
@@ -44,6 +47,7 @@ const card: Card = {
 
 		effect: {
 			ja: "このポケモンにのっているダメカンの数×10ダメージ。",
+			ko: "이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다.",
 			id: "Serangan ini memberikan kerusakan sejumlah 10 untuk tiap Token Kerusakan yang dimiliki Pokémon ini.",
 			th: "แดเมจจะเท่ากับจำนวนตัวนับแดเมจที่วางอยู่บนโปเกมอนนี้ x10",
 			'zh-tw': "造成這隻寶可夢身上放置的傷害指示物的數量×10點傷害。",
